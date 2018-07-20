@@ -25,11 +25,12 @@ img {
 	opacity: 0.8;
     padding: 20px;
     border-radius: 25px;
-    
-  
-    
- 
 }
+#gifButtonsView {
+
+    padding: 20px;
+}
+
 .jumbotron {
     background-color: inherit;
     font-family: 'Pacifico', cursive;
