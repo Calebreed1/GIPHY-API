@@ -32,7 +32,7 @@ $( document ).ready(function() {
     }
     function displayGifs(){
         var emotion = $(this).attr("data-name");
-        var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + emotion + "&api_key=uhyHRv7lxrZrxl7qeuY7ILSQnOWCyNnW&limit=10";
+        var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + emotion + "&api_key=uhyHRv7lxrZrxl7qeuY7ILSQnOWCyNnW&limit=10";
         console.log(queryURL); 
         $.ajax({
             url: queryURL,
