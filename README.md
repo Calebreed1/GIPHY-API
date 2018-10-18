@@ -4,7 +4,7 @@ A Fun Giphy API game! When loaded you will be able to choose from a selection of
 
 # Website Image
 
-![screenshot!](assets/images/giffy.jpg
+![screenshot!](assets/images/giffy.jpg)
 
 
 # Website Link
